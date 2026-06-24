@@ -1,73 +1,54 @@
-# 🎓 MITA SCHOOL  
-## Web Development Cohort – 2026
-
-Welcome to the official project archive for the **Web Development 2026 Cohort** at **Mita School**.
-
-This repository showcases student projects completed as part of their training program.
-
----
-
-## 🏫 About Mita School
-
-Mita School is a technology-focused institution offering practical training in:
-
-- 🌐 Web Development  
-- 🎨 UI/UX Design  
-- 🔐 Cybersecurity  
-- 📊 Project Management  
-
-🔗 Website: https://mitaschool.com/
-
----
-
-## 📅 Cohort Information
-
-- **Program:** Web Development  
-- **Year:** 2026  
-- **Duration:** [Insert Duration]  
-- **Total Students:** [Insert Number]  
-- **Capstone Projects:** [Insert Number]
-
----
-
 # 🚀 Student Projects
 
-| S/N | Student Name | Project Title | Project Description | Tech Stack | Live Demo | Repository |
-|-----|-------------|--------------|--------------------|------------|-----------|------------|
-| 1 | John Doe | E-Commerce Platform | Full-stack e-commerce application with payment integration | HTML, CSS, JS, Node.js | [Live](#) | [Repo](#) |
-| 2 | Mary Jane | Portfolio Website | Personal developer portfolio | React, Tailwind | [Live](#) | [Repo](#) |
-| 3 | David Smith | School Management System | Web-based school management platform | PHP, MySQL | [Live](#) | [Repo](#) |
+---
+
+## 1️⃣ John Doe – E-Commerce Platform
+
+<p align="center">
+  <img src="https://your-image-link.com/screenshot1.png" width="800" alt="E-Commerce Screenshot">
+</p>
+
+**Description:**  
+Full-stack e-commerce application with payment integration.
+
+**Tech Stack:**  
+HTML, CSS, JavaScript, Node.js
+
+🔗 **Live Demo:** https://example.com  
+💻 **Repository:** https://github.com/username/project
 
 ---
 
-## 🏆 Program Requirements
+## 2️⃣ Mary Jane – Portfolio Website
 
-Each student project must include:
+<p align="center">
+  <img src="https://your-image-link.com/screenshot2.png" width="800" alt="Portfolio Screenshot">
+</p>
 
-- ✅ Public GitHub Repository  
-- ✅ Professional README  
-- ✅ Project Description  
-- ✅ Screenshots  
-- ✅ Live Deployment Link  
-- ✅ Clean Code Structure  
+**Description:**  
+Personal developer portfolio built with modern UI principles.
 
----
+**Tech Stack:**  
+React, Tailwind CSS
 
-## 📌 Evaluation Criteria
-
-Projects were evaluated based on:
-
-- Functionality  
-- Code Quality  
-- UI/UX  
-- Responsiveness  
-- Deployment  
-- Documentation  
+🔗 **Live Demo:** https://example.com  
+💻 **Repository:** https://github.com/username/project
 
 ---
 
-## 📜 License
+## 3️⃣ David Smith – School Management System
 
-This repository serves as an academic showcase for Mita School.
+<p align="center">
+  <img src="https://your-image-link.com/screenshot3.png" width="800" alt="School System Screenshot">
+</p>
 
-© 2026 Mita School. All rights reserved.
+**Description:**  
+Web-based school management system with admin dashboard.
+
+**Tech Stack:**  
+PHP, MySQL
+
+🔗 **Live Demo:** https://example.com  
+💻 **Repository:** https://github.com/username/project
+
+---
