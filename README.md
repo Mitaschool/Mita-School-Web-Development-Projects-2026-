@@ -19,10 +19,10 @@ This repository documents projects completed by students of the **Web Developmen
 
 | # | Student Name | Project Title | Description | Live Link | Repository |
 |---|--------------|--------------|-------------|-----------|------------|
-| 1 | — | Leslie Logistics | Freight and shipping company website with quote request and shipment tracking. | [View](https://veeleslie008.github.io/LOGISTICS/) | — |
+| 1 | Victor  | Leslie Logistics | Freight and shipping company website with quote request and shipment tracking. | [View](https://veeleslie008.github.io/LOGISTICS/) | — |
 | 2 | Destiny Solomon | GlobalSkyFleet | International courier management platform with payments and real-time tracking. | [View](https://www.globalskyfleet.com) | [GitHub](https://github.com/DestinySolomon/globalskyfleet) |
-| 3 | — | QRCraft | Smart QR code generation platform for URLs, WhatsApp, Email, WiFi, and more. | [View](https://qrcraft.site) | — |
-| 4 | — | EngagFlow | Content promotion and micro-task marketplace with campaign analytics. | [View](https://engagflow.com) | — |
+| 3 | David Akpan | QRCraft | Smart QR code generation platform for URLs, WhatsApp, Email, WiFi, and more. | [View](https://qrcraft.site) | — |
+| 4 | Godwin Wisdom | EngagFlow | Content promotion and micro-task marketplace with campaign analytics. | [View](https://engagflow.com) | — |
 | 5 | NodeXplorer | ClipX | Media-based web application project. | — | [GitHub](https://github.com/nodexxplorer/clipX) |
 | 6 | NodeXplorer | RealityX | Experimental web-based project repository. | — | [GitHub](https://github.com/nodexxplorer/realityX) |
 | 7 | Ambassador Savior | INEC E‑Voting Platform | Electronic voting platform with fingerprint verification and encryption. | [View](https://ambassadorsavior.github.io/Inec_electronic_election/) | — |
@@ -37,7 +37,7 @@ This repository documents projects completed by students of the **Web Developmen
 
 ---
 
-## 🏫 About Mita School
+##  About Mita School
 
 Mita School is a technology training institution based in **Uyo, Akwa Ibom, Nigeria**, offering practical and career-focused training in:
 
