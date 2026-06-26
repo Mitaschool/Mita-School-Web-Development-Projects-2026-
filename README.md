@@ -1,4 +1,4 @@
-# Mita School — Web Development 2026  
+# Mita School - Web Development 2026  
 > Student Project Showcase · Uyo, Akwa Ibom, Nigeria  
 > [mitaschool.com](https://mitaschool.com)
 
