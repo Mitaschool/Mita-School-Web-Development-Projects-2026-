@@ -1,3 +1,4 @@
+
 # Mita School - Web Development 2026  
 > Student Project Showcase · Uyo, Akwa Ibom, Nigeria  
 > [mitaschool.com](https://mitaschool.com)
@@ -11,7 +12,6 @@ This repository documents projects completed by students of the **Web Developmen
 - **Program:** Web Development  
 - **Location:** Uyo, Akwa Ibom, Nigeria  
 - **Quarter:** Q1 2026  
- 
 
 ---
 
@@ -19,7 +19,7 @@ This repository documents projects completed by students of the **Web Developmen
 
 | # | Student Name | Project Title | Description | Live Link | Repository |
 |---|--------------|--------------|-------------|-----------|------------|
-| 1 | Victor  | Leslie Logistics | Freight and shipping company website with quote request and shipment tracking. | [View](https://veeleslie008.github.io/LOGISTICS/) | — |
+| 1 | Victor | Leslie Logistics | Freight and shipping company website with quote request and shipment tracking. | [View](https://veeleslie008.github.io/LOGISTICS/) | — |
 | 2 | Destiny Solomon | GlobalSkyFleet | International courier management platform with payments and real-time tracking. | [View](https://www.globalskyfleet.com) | [GitHub](https://github.com/DestinySolomon/globalskyfleet) |
 | 3 | David Akpan | QRCraft | Smart QR code generation platform for URLs, WhatsApp, Email, WiFi, and more. | [View](https://qrcraft.site) | — |
 | 4 | Godwin Wisdom | EngagFlow | Content promotion and micro-task marketplace with campaign analytics. | [View](https://engagflow.com) | — |
@@ -34,10 +34,12 @@ This repository documents projects completed by students of the **Web Developmen
 | 13 | Gideon Aniekan Nnah | E-Commerce | Frontend e-commerce website with structured product layout. | [View](https://kandy-dev223.github.io/gideon123/) | — |
 | 14 | Daniel Friday Ekong | My Portfolio | Personal developer portfolio highlighting projects and skills. | [View](https://daniel-deve.github.io/danieldeve/) | — |
 | 15 | Kingsley Akpan | Travel & Tour | Travel and tourism website showcasing destinations and booking interface. | [View](https://akpankda.github.io/DeMoore-Travelz/) | — |
+| 16 | David Akpan | VEE Events & Bridals | Event planning and bridal services website showcasing packages, galleries, and booking options. | [View](https://devdave105.github.io/VEE-Events---Bridals/) | — |
+| 17 | David Akpan | Freshfusion Foods Limited | Food business website featuring menu listings, services, and company information. | [View](https://devdave105.github.io/Freshfusion-Foods-Limited/) | — |
 
 ---
 
-##  About Mita School
+## About Mita School
 
 Mita School is a technology training institution based in **Uyo, Akwa Ibom, Nigeria**, offering practical and career-focused training in:
 
@@ -51,7 +53,7 @@ Website: https://mitaschool.com
 
 ---
 
-##  How to Get Listed
+## How to Get Listed
 
 1. Complete the Web Development program  
 2. Submit your final project to your tutor  
@@ -61,3 +63,6 @@ Website: https://mitaschool.com
 ---
 
 _Updated annually · Last updated: 2026_
+````
+
+---
